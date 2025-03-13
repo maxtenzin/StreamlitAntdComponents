@@ -4,3 +4,7 @@
 .ant-steps.ant-steps-vertical.ant-steps-default.ant-steps-dot {
     padding-left: 5px;
 }
+
+.ant-steps {
+    color: red !important;
+}
